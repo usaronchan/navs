@@ -14,3 +14,4 @@
 
 - [Google - Google Search](https://www.google.com/)
 - [Google Scholar](https://scholar.google.com/)
+- [Google Books](https://books.google.com/)
