@@ -7,7 +7,8 @@
 
 ### Distribution
 
-- [DistroWatch](https://distrowatch.com/)
+[DistroWatch](https://distrowatch.com/)
+
 - [Arch Linux](https://archlinux.org/)
   - [Download](https://archlinux.org/download/)
   - [Releases](https://archlinux.org/releng/releases/)
@@ -33,10 +34,11 @@
 - [NixOS](https://nixos.org/)
   - [Download](https://nixos.org/download/)
   - [Search packages](https://search.nixos.org/packages)
-- [Repository Statistics](https://repology.org/repositories/statistics)
-- [Linux From Scratch](https://www.linuxfromscratch.org)
 
 ## Tools
+
+- [Repository Statistics](https://repology.org/repositories/statistics)
+- [Linux From Scratch](https://www.linuxfromscratch.org)
 
 ### Shell
 
